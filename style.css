@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+   
+
+    background-color: gray;
+    padding: 45px;
+
+}
+.main {
+    background-color:beige;
+    width:194px;
+    height: 444px;
+    border-radius: 12px;
+
+
+}
+.image {
+
+    padding:14px;
+    border-radius: 12px;
+}
+
+.image img {
+
+    border-radius: 12px;
+}
+
+.content p{
+    font-size: 12px;
+}
+
+.content {
+
+    padding: 12px;
+}
+.capsules {
+
+    padding: 0 34px 0 14px;
+}
+.capsules span{
+   border: 1px solid black;
+    padding: 1px 4px;
+    font-size: 12px;
+    border-radius: 7px;
+    font-family: roboto;
+
+}
+
+.button {
+    text-align: center;
+}
+.btn-primary {
+    background-color: rgb(236, 144, 25);
+    border-radius: 7px;
+    margin: 10px;
+}
